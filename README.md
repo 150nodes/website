@@ -26,20 +26,17 @@ In [2014](https://en.wikipedia.org/wiki/E-Residency_of_Estonia) Estonia launched
 
 The "N" could mean many things: Noodles in a bowl, Ninjas in a dojo, Nuts in a shell.
 
-<img src="C:\Users\subs\150nodes\website\noodles_in_a_bowl.jpg" alt="noodles_in_a_bowl" style="zoom:25%;" />
-
-<img src="C:\Users\subs\150nodes\website\nuts_in_a_shell.jpg" alt="nuts in a shell" style="zoom:75%;" />
-
-<img src="C:\Users\subs\150nodes\website\ninjas_in_a_dojo.png" alt="ninjas in a dojol" style="zoom:25%;" />
-
+![noodels](noodles_in_a_bowl.jpg)
+![nuts](nuts_in_a_shell.jpg)
+![ninjas](ninjas_in_a_dojo.png)
 
 ### Want to work with us?
 
 Email [work@150n.ee](mailto:://work@150n.ee)
 
-
 ### Inspired by
 
-3. [Matt Mullenweg](https://distributed.blog/)
-4. [37 Signals](https://basecamp.com/books/remote)
+1. [Matt Mullenweg](https://distributed.blog/)
+2. [37 Signals](https://basecamp.com/books/remote)
+3. [Naval Ravikant](https://twitter.com/naval)
 
